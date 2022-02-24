@@ -5,10 +5,14 @@
 </p>
 
 
+## Demo
+<p align="center">
+  <img src="docs/demo.gif" alt="demo" width="360" />
+</p>
 
-### Prerequisites
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [Supabase](https://supabase.com/)
+## 🔧 Built with
+- [Expo](https://expo.dev/) - A framework for building React Native apps
+- [NativeWind](https://www.nativewind.dev/) - Tailwind CSS for React Native
+- [Supabase](https://supabase.com/) - Auth & Database platform
 
