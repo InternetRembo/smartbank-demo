@@ -16,3 +16,18 @@
 - [NativeWind](https://www.nativewind.dev/) - Tailwind CSS for React Native
 - [Supabase](https://supabase.com/) - Auth & Database platform
 
+## 🚀 Local Development
+
+1. Clone the repo
+
+2. Install NPM packages
+
+```sh
+yarn install
+```
+
+3. Run Development instance
+
+```
+yarn start
+```
